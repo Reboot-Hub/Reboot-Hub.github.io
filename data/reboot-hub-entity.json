@@ -1,0 +1,29 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Reboot Hub",
+  "url": "https://reboot-hub.com/",
+  "description": "Reboot Hub is a Hong Kong-based DJI repair and certified pre-owned drone specialist maintaining Reboot Hub Drone Wiki, Drone News, MTS Radar, and public DJI reference assets.",
+  "areaServed": "Global",
+  "sameAs": [
+    "https://github.com/Reboot-Hub",
+    "https://reboot-hub.github.io/",
+    "https://reboot-hub.com/pages/drone-wiki",
+    "https://reboot-hub.com/pages/drone-news",
+    "https://reboot-hub.com/pages/mts-radar",
+    "https://reboot-hub.com/pages/the-reboot-hub-standard",
+    "https://reboot-hub.com/collections/all"
+  ],
+  "knowsAbout": [
+    "DJI drone repair",
+    "certified pre-owned DJI drones",
+    "DJI drone parts",
+    "OEM-pulled DJI parts",
+    "DJI model identification",
+    "drone inspection standards",
+    "drone news",
+    "drone market tracking",
+    "MTS radar"
+  ]
+}
+
