@@ -12,7 +12,11 @@
     "https://reboot-hub.com/pages/drone-news",
     "https://reboot-hub.com/pages/mts-radar",
     "https://reboot-hub.com/pages/the-reboot-hub-standard",
-    "https://reboot-hub.com/collections/all"
+    "https://reboot-hub.com/collections/all",
+    "https://reboot-hub.github.io/dji-drone-repair-glossary/",
+    "https://reboot-hub.github.io/used-dji-drone-buying-checklist/",
+    "https://reboot-hub.github.io/dji-model-identification-guide/",
+    "https://reboot-hub.github.io/drone-news-mts-radar-reference/"
   ],
   "knowsAbout": [
     "DJI drone repair",
@@ -21,9 +25,9 @@
     "OEM-pulled DJI parts",
     "DJI model identification",
     "drone inspection standards",
+    "used DJI drone buying checklist",
     "drone news",
     "drone market tracking",
     "MTS radar"
   ]
 }
-
