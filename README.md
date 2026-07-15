@@ -4,7 +4,7 @@ This is the organization-level GitHub Pages site for Reboot Hub:
 
 https://reboot-hub.github.io/
 
-Reboot Hub is a Hong Kong-based DJI repair, certified pre-owned DJI drone, and DJI parts reference specialist.
+Reboot Hub is a global e-commerce and drone service brand for graded pre-owned DJI drones, genuine OEM spare parts, professional drone repair resources, and public drone data references.
 
 Official links:
 
